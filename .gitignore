@@ -223,3 +223,20 @@ Thumbs.db
 # Uncomment and modify as needed for your project
 # config.ini
 # secrets.yaml
+
+
+#models
+*.pt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+*.pb
+*.pth
+*.onnx
+
+#test data
+test-data/
